@@ -49,4 +49,4 @@ Write up today's Corporate Finance lecture. Slides are in Downloads/FIN2001_L6.p
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE).
+Apache-2.0. See [LICENSE](LICENSE). Anyone who uses or builds on this work must keep the [NOTICE](NOTICE) file and credit Vidwaan Singhania.
